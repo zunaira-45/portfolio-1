@@ -117,7 +117,7 @@ const page = () => {
           <div className='text-1xl font-bold text-center'>
       <h2 className='text-2xl'> SHAREABLE RESUME BUILDER</h2>
      <p>
-      This is a simple ahreable resume builder where the user can input their details and the resume will be
+      This is a simple shareable resume builder where the user can input their details and the resume will be
       generated in pdf form you can also edit it
      </p>
         <br></br>
@@ -131,7 +131,7 @@ const page = () => {
           </li>
           </div>
           </div>
-     <footer/>
+     <Footer/>
     </div>
     
   )
